@@ -1,7 +1,7 @@
 from random import choice
 
 d = {}
-with open("test.txt", encoding='utf-8') as f:
+with open("14-04-23.txt", encoding='utf-8') as f:
     for line in f:
         (key, val) = line.split()
         d[key] = val
@@ -32,3 +32,4 @@ while i > 0:
 
     del d[word]
     i -= 1
+    print('')
