@@ -1,0 +1,21 @@
+alongside/рядом
+assign/поручать
+bar/кусок
+compare/сравнивать
+declare/объявлять
+descriptive/описательный
+extract/извлекать
+indentation/отпечаток
+influence/влияние
+otherwise/или же, иначе
+particularly/особенно
+prevent/предотвращать
+rapid/быстрый
+rely/зависеть
+render/оказывать
+scope/возможность
+semicolon/точка с запятой
+software/программное обеспечение
+treat/обращаться
+underscore/подчеркивать
+overflow/переполняться
