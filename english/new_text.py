@@ -1,6 +1,6 @@
 from pathlib import Path
 
-words = [w for w in Path('Python_start.txt').read_text(encoding="utf-8").replace("\n", " ").split()]
+words = [w for w in Path('Python_data_types.txt').read_text(encoding="utf-8").replace("\n", " ").split()]
 known_words = [w for w in Path('know.txt').read_text(encoding="utf-8").replace("\n", " ").split()]
 dont_known_words = [w for w in Path('dont_know.txt').read_text(encoding="utf-8").replace("\n", " ").split()]
 
