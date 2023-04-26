@@ -1,0 +1,14 @@
+conversion/переход
+sequence/последовательность
+cast/бросать
+carriage/вагон
+incididunt/инцидентный
+instance/пример
+justified/оправданный, заслуженный
+occur/случаться, происходить
+placeholder/заполнитель
+quotes/ковычки
+respective/соответствующий
+swap/менять
+vice/порок
+whitespace/пробел
