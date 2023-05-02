@@ -1,0 +1,17 @@
+assignment/задание, назначение
+bitwise/побитовый
+comparison/сравнение
+evaluate/оценивать, определять
+exponentiation/возведение в степень
+invert/переворачивать
+leftmost/крайний левый
+multiplication/умножение
+multiply/умножать
+parenthese/скобки
+precedence/приоритет
+represent/являться, равняться
+rightmost/крайний справа
+subtraction/вычитать
+therefor/для этого
+unary/одинарный
+whether/или, ли
