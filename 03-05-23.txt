@@ -1,0 +1,18 @@
+specify/уточнять, оговаривать
+asterisk/звездочка, знак сноски
+referring/ссылающийся, указывающий
+workaround/обходной путь
+refer/ссылаться
+appear/появиться
+accommodate/приспособить, разместить, вмещать
+appropriately/соответственно
+consist/состоять
+enclose/окружать, заключать, вложить
+evolve/развиваться, эволюционировать
+heterogeneous/неоднородный
+homogeneous/однородный
+nested/вложенный
+singleton/единичный предмет
+sufficient/достаточный
+traceback/обратная связь
+trailing/задний, конечный
